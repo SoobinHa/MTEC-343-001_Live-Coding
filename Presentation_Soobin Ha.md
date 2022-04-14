@@ -1,10 +1,12 @@
 **LiveCoding Presentation_Soobin Ha**
 
-***Aesthetic Implication of Live Coding*** *presenting sound while making sound*
+***Aesthetic Implication of Live Coding*** _ *presenting sound while making sound*
 - Documentations included: 
 bibliography
     
-    
+ 
+ 
+ 
 **References**
 
 * *“Aesthetic Implications of the Algorithm Applied to New Media Art Works : A Focus on Live Coding”*, Junho Oh, 2013, SeoGang Univ.
